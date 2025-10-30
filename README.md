@@ -21,3 +21,15 @@ Após isso, o programa vai perguntar quantos alunos terão seus dados digitados
 
 Por motivos maiores, o código limita o registro máximo de alunos em 50, ou seja, até 50 dados de alunos podem ser registrados a cada execução do programa.
 
+Agora, um loop vai iniciar. Cabe ao usuário digitar os dados na seguinte ordem:
+
+Nome do Aluno
+N˚ Matrícula
+Índice de Rendimento Acadêmico
+Curso
+Matéria
+Nota da Matéria
+
+O usuário vai saber que os dados de um aluno foram registrados com sucesso se o código pular uma linha a mais no console.
+
+Ao final do loop, o programa terminará sua tarefa, e o arquivo CSV vai estar alterado e formatado para exportação. Basta jogar em um programa de planilha e os dados estarão no ponto para futuras necessidades.
