@@ -23,12 +23,12 @@ Por motivos maiores, o código limita o registro máximo de alunos em 50, ou sej
 
 Agora, um loop vai iniciar. Cabe ao usuário digitar os dados na seguinte ordem:
 
-Nome do Aluno
-N˚ Matrícula
-Índice de Rendimento Acadêmico
-Curso
-Matéria
-Nota da Matéria
+Nome do Aluno  
+N˚ Matrícula  
+Índice de Rendimento Acadêmico  
+Curso  
+Matéria  
+Nota da Matéria  
 
 O usuário vai saber que os dados de um aluno foram registrados com sucesso se o código pular uma linha a mais no console.
 
